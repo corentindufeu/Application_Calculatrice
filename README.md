@@ -1,2 +1,2 @@
 # Application_Calculatrice
-Entraînement application OperationsWindows (C#)
+Entraînement application Windows Forms (C#)
